@@ -35,3 +35,11 @@ We used a pre-trained model from HuggingFace called Metricgan-plus-voicebank and
 pyhton MetricGAN+Enhancement.py
 ```
 
+#SEGAN
+Contains a pre-trained model for segan. The command to run the code is:
+
+```bash
+python test_audio1.py
+```
+
+
